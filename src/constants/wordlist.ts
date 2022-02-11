@@ -27,5 +27,13 @@ export const WORDS = [
   'julian',
   'coyote',
   'pancho',
-  'pacman'
+  'pacman',
+  'python',
+  'musica',
+  'flores',
+  'seguro',
+  'cetera',
+  'numero',
+  'pileta',
+  'paulin',  
 ]
