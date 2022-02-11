@@ -1,4 +1,4 @@
-# React Wordle
+# Fliwordle!
 
 This is the 100% real no fake version of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
