@@ -35,5 +35,9 @@ export const WORDS = [
   'cetera',
   'numero',
   'pileta',
-  'paulin',  
+  'paulin',
+  'chiqui',
+  'toxica',
+  'toxico',
+  'justin'
 ]
